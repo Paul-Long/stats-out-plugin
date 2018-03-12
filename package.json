@@ -1,0 +1,24 @@
+{
+  "name": "stats-out-plugin",
+  "version": "1.0.0",
+  "description": "webpack stats out file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Long/stats-out-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "stats",
+    "plugin"
+  ],
+  "author": "paul-long <7328194@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Long/stats-out-plugin/issues"
+  },
+  "homepage": "https://github.com/Paul-Long/stats-out-plugin#readme"
+}
